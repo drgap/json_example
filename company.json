@@ -12,7 +12,7 @@
     "eyeColor": "blue",
     "address": "636 Canal Avenue, Cade, Colorado, 1473",
     "favoriteFruit": "mango",
-    "friends": [
+    "contacts": [
       {
         "name": "Dorothea Gillespie",
         "company": "MEDESIGN"
@@ -35,7 +35,7 @@
     "eyeColor": "green",
     "address": "462 Strauss Street, Rossmore, Kansas, 7620",
     "favoriteFruit": "mango",
-    "friends": [
+    "contacts": [
       {
         "name": "Terry Hill",
         "company": "TERAPRENE"
@@ -58,7 +58,7 @@
     "eyeColor": "brown",
     "address": "695 Richmond Street, Harrodsburg, Washington, 2888",
     "favoriteFruit": "apple",
-    "friends": [
+    "contacts": [
       {
         "name": "Helene Quinn",
         "company": "KONGLE"
