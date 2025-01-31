@@ -1,17 +1,15 @@
-[
-{
+[{
   "name" : "Walter White",
   "age" : 51,
   "testScores" : [90, 85, 98]
-}
+},
 {
   "name" : "Jane Margolis",
   "age" : 20,
   "testScores" : [93, 89, 94]
-}
+},
 {
   "name" : "Jesse Pinkman",
   "age" : 21,
   "testScores" : [75, 62, 72]
-}
-]
+}]
