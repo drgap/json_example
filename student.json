@@ -1,3 +1,4 @@
+[
 {
   "name" : "Walter White",
   "age" : 51,
@@ -13,3 +14,4 @@
   "age" : 21,
   "testScores" : [75, 62, 72]
 }
+]
