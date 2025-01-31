@@ -1,3 +1,2 @@
-[ {"name":"Ram", "email":"Ram@gmail.com"}, 
-  {"name":"Bob", "email":"bob32@gmail.com"} ]  
+{"name":"John", "age":30, "cars":["Ford", "BMW", "Fiat"] }
 
