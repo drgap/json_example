@@ -1,0 +1,14 @@
+[
+  {
+    "employee": {"name": "Lorenzo", "salary": 76000, "married": false},
+    "job"     : {"location": "NYC", "title": "Software Engineer"}
+  },
+  {
+    "employee": {"name": "Sandra", "salary": 89000, "married": true},
+    "job"     : {"location": "SF", "title": "Full-Stack Engineer"}
+  },
+  {
+    "employee": {"name": "Lena", "salary": 67000, "married": false},
+    "job"     : {"location": "ATL", "title": "UX Engineer"}
+  }
+]
